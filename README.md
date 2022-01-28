@@ -1,1 +1,2 @@
-# Rutgers-CS526-Project-Template
+# Rutgers-CS527-Project
+
