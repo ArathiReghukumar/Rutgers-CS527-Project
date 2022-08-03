@@ -1,2 +1,2 @@
-# Rutgers-CS527-Project
+#SQL Query Executor
 
