@@ -1,2 +1,2 @@
-#SQL Query Executor
+SQL Query Executor
 
